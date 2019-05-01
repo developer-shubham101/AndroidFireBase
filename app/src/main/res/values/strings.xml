@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Firebase</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string name="main_nav_settings">Settings</string>
+
+    <string name="main_nav_logout">Logout</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="placeholder_user">user</string>
+    <string name="write_a_message">Write a message…</string>
+    <string name="send">Send</string>
+    <string name="profile_hint_display_name">Display Name</string>
+    <string name="profile_hint_name">Name</string>
+    <string name="profile_hint_update">UPDATE</string>
+    <string name="main_nav_group_chat">Group Chat</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

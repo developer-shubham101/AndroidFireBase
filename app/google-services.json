@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "166177086132",
+    "firebase_url": "https://developers-point.firebaseio.com",
+    "project_id": "developers-point",
+    "storage_bucket": "developers-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166177086132:android:3f4c6b98a0f10bdf",
+        "android_client_info": {
+          "package_name": "com.devpoint.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166177086132-8a435p53nvdoq809v3h0t0us27ssb1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgUP84G9DOvrd0Jj69Xfy8HcL8NOQT-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166177086132:android:0a65236be56dd06c",
+        "android_client_info": {
+          "package_name": "com.devpoint.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166177086132-8a435p53nvdoq809v3h0t0us27ssb1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgUP84G9DOvrd0Jj69Xfy8HcL8NOQT-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166177086132:android:ffa9d1da57a65e73",
+        "android_client_info": {
+          "package_name": "com.devpoint.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166177086132-931s63c0ml9hmfk310a1r1hf80h8lf10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devpoint.remoteconfig",
+            "certificate_hash": "dd22b48286ad0551366343187d8bedd8e02b8bbe"
+          }
+        },
+        {
+          "client_id": "166177086132-8a435p53nvdoq809v3h0t0us27ssb1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgUP84G9DOvrd0Jj69Xfy8HcL8NOQT-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166177086132-8a435p53nvdoq809v3h0t0us27ssb1h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

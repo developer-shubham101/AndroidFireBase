@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="5dp"
+    card_view:cardElevation="3dp"
+    card_view:contentPaddingBottom="-3dp"
+    card_view:contentPaddingLeft="-3dp"
+    card_view:contentPaddingRight="-3dp"
+    card_view:contentPaddingTop="-3dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:paddingEnd="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:paddingStart="20dp"
+        android:paddingTop="20dp"
+        android:orientation="horizontal">
+        <View
+            android:id="@+id/onlineStatusOffline"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/offline_bg"
+
+            android:layout_marginRight="10dp" />
+        <View
+            android:id="@+id/onlineStatusOnline"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/online_bg"
+android:visibility="gone"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:id="@+id/postDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="@string/placeholder_user"
+            android:textSize="16sp" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>
